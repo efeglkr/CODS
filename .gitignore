@@ -1,0 +1,8 @@
+﻿*.exe
+*.o
+*.obj
+*.dev
+*.layout
+*.win
+*.ps1
+.vscode/
