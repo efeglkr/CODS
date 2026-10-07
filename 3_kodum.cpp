@@ -13,7 +13,7 @@ int main(int argc, char** argv) {
 	getline(cin,say2);
 	stringstream(say)>>a;
 	stringstream(say2)>>b;
-	cout<<a+b;
+	cout<<a*b;
 	
 	
 
