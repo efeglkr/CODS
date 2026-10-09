@@ -1,0 +1,68 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{ /*
+//kare deseni oluþturmak;
+
+int i,j;
+
+for(i=0;i<7;i++){
+
+    for(j=0;j<7;j++){
+        printf("*");
+    }
+    printf("\n");
+}
+
+*/
+
+//Ýçi boþ kare deseni oluþturan algoritma
+/*
+int i,j,k;
+
+for(i=0;i<7;i++){
+    for(j=0;j<7;j++){
+
+    if(i==0 || i==6 || j==0 || j==6){
+        printf("* ");
+    }
+    else{
+        printf("  ");}}
+
+    printf("\n");
+}
+
+*/
+
+int i,j,k,x;
+
+x=10;
+
+for(i=0;i<10;i++){
+
+    for(j=0;j<10;j++){
+        for(k=0;k<i/2;k++){
+            printf(" ");
+            }printf("* ");
+
+        }
+
+   printf("\n");
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    return 0;
+}
