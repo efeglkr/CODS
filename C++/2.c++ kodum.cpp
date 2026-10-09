@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 #include <sstream>
-//KLAVYEDEN GÝRÝLEN BÝR SAYININ KATINI ALAN PROGRAM
+//KLAVYEDEN GÄ°RÄ°LEN BÄ°R SAYININ KATINI ALAN PROGRAM
 int main(int argc, char** argv) {
 	using namespace std;
 	string say,say2;
