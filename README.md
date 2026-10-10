@@ -1,11 +1,12 @@
 ﻿# 👋 Merhaba, Ben Efe!
 
-🎓 C++ ve Yazılım Geliştirme Yolculuğundayım.
+🎓 Yazılım Geliştirme Yolculuğundayım.
+Bilgisayar Mühendisliği 2.Sınıf Öğrencisiyim.
 
 ---
 
 ### 🛠️ Kullandığım Teknolojiler & Araçlar
-- **Diller:** C++, PowerShell
+- **Diller:** C++,C,C#, PowerShell
 - **Araçlar:** VS Code, Git, GitHub, MSYS2 / MinGW
 
 ---
